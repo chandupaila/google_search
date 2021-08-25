@@ -1,0 +1,12 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  font-family: roboto;
+  color: #64748b;
+}
+
+.arrow {
+  height: 20px;
+  width: 20px;
+}
